@@ -33,3 +33,5 @@ plt.show()
 
 ## Test
 ![](quiz024.png)
+## Circuit
+![](quiz024_circuit.png)
