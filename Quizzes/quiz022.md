@@ -17,3 +17,5 @@ print(produce)
 ```
 ## Test
 ![](quiz022.png)
+## Truth table (proof)
+![](quiz022_proof.png)
