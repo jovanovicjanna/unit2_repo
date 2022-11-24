@@ -20,3 +20,4 @@ table = getTruth()
 print(table)
 ```
 ##Test
+![](quiz020.png)
