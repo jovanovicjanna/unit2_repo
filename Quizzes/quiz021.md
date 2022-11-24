@@ -23,3 +23,4 @@ table = getTruth()
 print(table)
 ```
 ## Test
+![](quiz021.png)
