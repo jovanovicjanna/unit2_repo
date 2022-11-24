@@ -1,5 +1,7 @@
-#Quiz020
-##Code
+# Quiz020
+
+## Code
+
 ```.py
 
 def getTruth():
@@ -19,5 +21,5 @@ def getTruth():
 table = getTruth()
 print(table)
 ```
-##Test
+## Test
 ![](quiz020.png)
