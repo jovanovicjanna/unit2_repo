@@ -3,11 +3,10 @@
 ## Code
 
 ```.py
-
 def getTruth():
-    a = True
-    b = True
-    c = True
+    a = False
+    b = False
+    c = False
     print("| A | B | C |")
     for num in range(8):
         if num % 1 == 0:
