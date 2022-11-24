@@ -31,4 +31,4 @@ plt.plot(x_list,y_list, color="red")
 plt.show()
 
 ## Test
-![](quiz023.png)
+![](quiz024.png)
