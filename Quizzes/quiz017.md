@@ -1,6 +1,7 @@
 # Quiz 017
 ## Code
-'''.py
+
+```.py
 def averageLength(given:list)->float:
     length = (len(char) for char in given)
     output = sum(length)/len(given)
@@ -14,6 +15,6 @@ test3 = averageLength(["Computer Science", "Art"])
 print(test3)
 test4 = averageLength(["one", "two"])
 print(test4)
-'''
+```
 ## Test
 
