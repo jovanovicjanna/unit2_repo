@@ -27,3 +27,4 @@ plt.ylabel("$y=x^{1/2(m/s)^2}$")
 plt.show()
 ```
 ## Test
+![](quiz023.png)
