@@ -22,3 +22,6 @@ print(table)
 ```
 ## Test
 ![](quiz020.png)
+
+## Circuit
+## Truth table
