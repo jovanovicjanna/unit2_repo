@@ -29,6 +29,7 @@ for i in range(100):
 
 plt.plot(x_list,y_list, color="red")
 plt.show()
+```
 
 ## Test
 ![](quiz024.png)
