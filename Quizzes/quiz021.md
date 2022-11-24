@@ -24,3 +24,8 @@ print(table)
 ```
 ## Test
 ![](quiz021.png)
+## Circuit
+![](quiz021_circuit.png)
+
+## Table
+![](quiz021_table.png)
