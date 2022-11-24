@@ -28,3 +28,6 @@ plt.show()
 ```
 ## Test
 ![](quiz023.png)
+
+## Truth table
+![](quiz023.png)
