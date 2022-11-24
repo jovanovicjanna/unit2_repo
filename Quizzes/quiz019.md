@@ -22,3 +22,5 @@ print(change_msg("Remember the Figure Caption"))
 ```
 ## Test
 ![](quiz019.png)
+## Boolean circuit
+![](quiz019_circuit.png)
