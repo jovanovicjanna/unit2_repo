@@ -24,4 +24,8 @@ print(table)
 ![](quiz020.png)
 
 ## Circuit
+![](quiz20_circuit.png)
+
 ## Truth table
+![](quiz20_table.png)
+
